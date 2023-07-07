@@ -1,4 +1,5 @@
-# React JavaScript Test
+# View the price chart at the moment with chart.js , React-Query and Docker
+
 
 ### Requirements
 
